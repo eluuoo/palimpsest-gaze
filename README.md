@@ -19,7 +19,7 @@ This work addresses the ultimate issue of algorithmic surveillance: "How to rega
 
 3. Acknowledgements (References and Inspiration Sources)
 * Technical framework: p5.js & ML5.js hand pose model
-* Inspiration sources: * Joy Buolamwini (Algorithm Bias and Gender Shadows)
-* Camille Utterback & Romy Achituv (Text Rain, 1999)
-* Rafael Lozano-Hemmer (Public Art Installation)
+* Inspiration sources: Joy Buolamwini (Algorithm Bias and Gender Shadows)
+                       Camille Utterback & Romy Achituv (Text Rain, 1999)
+                       Rafael Lozano-Hemmer (Public Art Installation)
 * Resources: Audio synthesized through p5.Oscillator.
