@@ -6,6 +6,8 @@ Author: Yilu Tan
 
 Project Overview: This project is an interactive installation that explores the interaction between machine vision power and bodily dignity. In the contemporary surveillance society, the gaze of algorithms is similar to the act of power writing, constantly leaving data labels (monitoring terms, biometric features, classification algorithms) on our bodies. The work uses "palimpsest" as a metaphor. When the audience extends their palms, it is like erasing the labels imposed by the machine; when both hands are opened, it breaks the violent resistance against the surveillance system, causing the cold algorithmic imprints to shatter and revealing a poetic declaration of resistance. 
 
+render link: https://palimpsest-gaze.onrender.com
+
 1. Instructions for Use (Operation Manual)
 * Static Observation: When the body is stationary, the machine's gaze marker (monitoring term) will continuously fall and accumulate to form an oppressive "overlapping layer".
 * Single-Hand Erase: Raise any hand. Your palm acts like a digital "eraser". Touching the constantly falling text can remove the monitoring labels and reveal fragments of resistance.
